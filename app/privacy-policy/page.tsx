@@ -70,9 +70,9 @@ export default async function Privacy() {
         <p>
           If you have any questions, concerns, or requests related to your
           personal information or this Privacy Policy, please contact us at
-          <a href="mailto:admin@Bookiesso.com"> admin@Bookiesso.com</a>. We will make
+          <a href="mailto:admin@bookiesso.com"> admin@bookiesso.com</a>. We will make
           reasonable efforts to address your inquiries in a timely manner. By
-          using Bookiesso.com, you agree to the practices outlined in this
+          using bokiesso.com, you agree to the practices outlined in this
           Privacy Policy. If you do not agree with any part of this policy,
           please refrain from using the Website.
         </p>

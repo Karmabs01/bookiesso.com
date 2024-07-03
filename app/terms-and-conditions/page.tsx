@@ -90,13 +90,13 @@ export default async function Privacy() {
           herein, please refrain from using the Website. If you have any
           questions or concerns about these Terms & Conditions, please contact
           us at{" "}
-          <a href="mailto:info@Bookiesso.com">info@Bookiesso.com</a>.
+          <a href="mailto:info@bookiesso.com">info@bookiesso.com</a>.
         </p>
         <h2 className="mb-3">Subscription and domains</h2>
         <p>
           By subscribing to our newsletters, you agree to receive occasional
           promotional emails from both{" "}
-          <a target="_blank" href="https://Bookiesso.com/">
+          <a target="_blank" href="https://bookiesso.com/">
             Bookiesso.com
           </a>{" "}
         </p>
